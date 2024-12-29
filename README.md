@@ -33,7 +33,7 @@ sudo apt install dnsutils whois
 ```
 ### Clone the repository
 ```
-git clone https://github.com/shxim/RecHunter.git
+https://github.com/shameemkabeer/RecHunter.git
 ```
 ### Navigate to the directory
 ```
